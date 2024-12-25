@@ -21,7 +21,7 @@ plugins {
 	id "io.spring.develocity.conventions" version "0.0.22"
 }
 
-rootProject.name="spring-boot-build"
+rootProject.name="xcode-spring-boot-resource"
 
 enableFeaturePreview("STABLE_CONFIGURATION_CACHE")
 
